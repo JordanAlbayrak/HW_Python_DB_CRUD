@@ -3,3 +3,4 @@ Connect to a database with two tables linked with a FK and perform crud operatio
 
 Change .env file to your db connection info.
 Create the necessary db
+Change the information in the .env file to your proper information.
